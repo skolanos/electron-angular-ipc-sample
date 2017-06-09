@@ -22,7 +22,7 @@ npm install
 In Unix/Linux run the following commands in you terminal:
 
 ```shell
-ng run electron
+npm run electron
 ```
 
 In Windows you need to change one line in package.json:
@@ -40,5 +40,5 @@ change it to:
 and run the following command in you terminal:
 
 ```shell
-ng run electron
+npm run electron
 ```
